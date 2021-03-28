@@ -7,7 +7,7 @@ Install dependencies:
 npm install
 ```
 
-Then run dev script:
+
 
 ## Build
 ```
