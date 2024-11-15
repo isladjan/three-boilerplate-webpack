@@ -13,7 +13,7 @@
     "build": "webpack --config webpack.prod.js",
     "build:analyzer": "webpack --config webpack.prod.js --json > stats.json"
   },
-  "author": "isladjan83@gmail.com",
+  "author": "github@isladjan.com",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
